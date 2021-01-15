@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.mozzaz.conditionadvisor",
+    "package_name": "com.adev.applink.sample",
     "sha256_cert_fingerprints":
     ["59:26:41:9D:F4:A8:FD:ED:B1:12:25:41:E6:30:61:A8:32:4C:81:F9:EA:13:67:17:27:07:67:71:87:63:5C:7A"]
   }
